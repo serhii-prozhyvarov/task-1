@@ -2,7 +2,7 @@
   "name": "task-1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/serhii-prozhyvarov/task-1",
+  "homepage": "https://serhii-prozhyvarov.github.io/task-1/",
   "dependencies": {
     "@emotion/styled": "^11.11.5",
     "@testing-library/jest-dom": "^5.16.3",
